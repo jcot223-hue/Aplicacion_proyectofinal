@@ -52,4 +52,22 @@ Descripcion: Esta aplicacion fue realizada en flutter que su funcion es recibir 
 
 *Imagenes*
 -
+1.Pantalla de iniciar sesion
 
+<img width="423" height="738" alt="Image" src="https://github.com/user-attachments/assets/22b7c0b3-3e29-42a6-b1eb-c506cd1dc93e" />
+
+2.Crear una cuenta nueva
+
+<img width="422" height="746" alt="Image" src="https://github.com/user-attachments/assets/4615d790-f7ba-44c1-9ec6-2150521132c6" />
+
+3.Pantalla de reportes
+
+<img width="417" height="743" alt="Image" src="https://github.com/user-attachments/assets/054beba7-a076-45e3-8996-cf040836b78c" />
+
+4.Agregar un reporte 
+
+<img width="418" height="737" alt="Image" src="https://github.com/user-attachments/assets/768fe46e-c09f-4d9e-9f6d-35b1647b7e26" />
+
+5.Pantalla con un reporte agregado
+
+<img width="413" height="735" alt="Image" src="https://github.com/user-attachments/assets/b21b5413-71d5-4d47-bec0-c07bfa58cf6b" />
