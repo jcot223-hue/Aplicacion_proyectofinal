@@ -42,4 +42,14 @@ Descripcion: Esta aplicacion fue realizada en flutter que su funcion es recibir 
 
 *Repositorio de GitHub*
 -
-1.Repositorio de la aplicacion: 
+1.Repositorio de la aplicacion: https://github.com/jcot223-hue/Aplicacion_proyectofinal/tree/main
+
+2.Abir el visual del archivo
+
+3. Abrir consola con "ctrl+j" y escribir "flutter pub get" y "flutter run" para ejecutar la aplicacion
+
+(Antes de ejecutar la aplicacion tienes que ejecutar la api)
+
+*Imagenes*
+-
+
